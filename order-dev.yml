@@ -13,3 +13,5 @@ spring:
 # env 就是环境的意思
 env: 
   dev
+label:
+  release
